@@ -1,0 +1,5 @@
+output-iso/*
+path/
+.env
+output_files.csv
+s3_bucket_files.csv
